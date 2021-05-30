@@ -1,0 +1,4 @@
+displayName = [i:58][c/ff0000:Kills] Give [c/00ff3c:Health] [i:2019]
+author = Derpling
+version = 1.1
+homepage = https://github.com/aDerpling/KillForHealth

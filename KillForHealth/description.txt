@@ -1,0 +1,13 @@
+[i:58] Every time you kill an NPC, you gain (or lose) health!
+[i:58] Configurable via the mod's config!
+[i:58] For people that want a challenge...
+[i:58] Or for people that want a bit of an easy mode!
+[i:58] Similar to my Minecraft mod, which you can find
+[i:58] via the GitHub (homepage) of this mod!
+[i:58] Hope you enjoy, and if there are any problems...
+[i:58] Contact me on Discord at Derpling#2533
+[i:58] Note: You must be in the Terraria or tModLoader server
+[i:58] to message me due to privacy settings! Sorry!
+[i:58] Update v1.1: Added a GitHub, which means there is now an icon
+[i:58] and an official GitHub. The Minecraft Mod will now be in the
+[i:58] GitHub description!
